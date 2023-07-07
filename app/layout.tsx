@@ -17,7 +17,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}><Provider>{children}</Provider></body>
+      {/* <body className={inter.className}><Provider>{children}</Provider></body> */}
+      {/* Add AuthContext over auth routes only, don't keep them in global */}
+      <body className={inter.className}>{children}</body>
     </html>
   );
 }
