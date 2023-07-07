@@ -1,0 +1,21 @@
+.logIn {
+  display: flex;
+}
+.logo {
+  background-color: black;
+  width: 40vw;
+  height: 100vh;
+}
+.logInBox {
+  width: 60vw;
+  height: 100vh;
+  background-color: #F5F5F5;
+}
+
+.logoText {
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  font-size: 5.1vw;
+  line-height: 100vh;
+}

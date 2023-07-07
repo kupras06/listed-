@@ -1,0 +1,50 @@
+.formBox {
+    background-color: white;
+    padding: 1.5% 0% 3.5% 4%;
+    width: 43.5%;
+    border-radius: 20px;
+    margin-top: 4%;
+    margin-left: 30%;
+  }
+  .formInput {
+      height: 2.8vw;
+    background-color: #eaeaea;
+    border: 0px;
+    border-radius: 10px;
+    padding-left: 2%;
+    width: 85%;
+  }
+  .formLabel {
+    font-weight: 400;
+    padding: 5.5% 0% 3.5% 0%;
+    font-size: 1.2vw;
+  }
+  .forgetPass {
+    font-weight: 400;
+    padding: 4.75% 0% 4.75% 0%;
+    color: #346bd4;
+    font-size: 1.2vw;
+  }
+  .SignButton {
+    width: 85%;
+    height: 3vw;
+    background-color: #000000;
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+    font-weight: 700;
+    font-size: 1.25vw;
+  
+  }
+  .newRegister {
+    /* text-align: center; */
+    margin-left: 35%;
+    color: #858585;
+    font-size: 1.2vw;
+    margin-top: 2%;
+  }
+  .newRegister > span {
+    color: #346bd4;
+    font-weight: 400;
+  }
+  
